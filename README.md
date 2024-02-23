@@ -1,4 +1,4 @@
-Employee Database Management System
+Employee Database Management System 
 This command-line application is designed to assist business owners in managing their company's employee database efficiently. With the power of Node.js, Inquirer, and MySQL, users can effortlessly view, add, and update departments, roles, and employees.
 <img width="452" alt="image" src="https://github.com/BryceGitHuba/Employee-Tracker/assets/149907275/48dd685d-25a0-4a2b-a4ec-dbe64fdd2972">
 How to Use
